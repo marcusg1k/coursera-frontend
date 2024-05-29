@@ -37,3 +37,19 @@ Use the Bootstrap CSS framework to create webpages.
 Leverage Bootstrap documentation to reproduce and modify CSS components.
 Use Bootstrap themes. 
 Describe the basics of React in relation to other frameworks and web technologies.
+
+Webpages vs Websites: 
+Webpage is a document that displays images, text, videos and other content 
+Website is a collection of webpages put together
+
+HTML/CSS/JS (trio)
+HTML: Hyper Text Markup Language
+CSS: Cascading Style Sheets
+JS: JavaScript
+HTML: structures the content you see
+CSS: Colors and style
+JS: responsible for user interaction
+HTML is like the building (structure)
+CSS is like the decorations and landscaping
+JS is just like business, the services offered and the people coming in and out
+Javascript is the powerhouse of webpages

@@ -93,4 +93,17 @@ HTTP RESPONSE CODES:
 400 - 499: client error
 500 - 599: server error
 
+Other Internet Protocols: 
+
+Dynamic Host Configuration Protocol (DHCP)
+You've learned that computers need IP addresses to communicate with each other. When your computer connects to a network, the Dynamic Host Configuration Protocol or DHCP as it is commonly known, is used to assign your computer an IP address.
+Your computer communicates over User Datagram Protocol (UDP) using the protocol with a type of server called a DHCP server. The server keeps track of computers on the network and their IP addresses. It will assign your computer an IP address and respond over the protocol to let it know which IP address to use. Once your computer has an IP address, it can communicate with other computers on the network.
+
+Domain Name System (DNS)
+Your computer needs a way to know with which IP address to communicate when you visit a website in your web browser, for example, meta.com. The Domain Name System Protocol, commonly known as DNS, provides this function. Your computer then checks with the DNS server associated with the domain name and then returns the correct IP address.
+
+Internet Message Access Protocol (IMAP) 
+Do you check your emails on your mobile or tablet device? Or maybe you use an email application on your computer?
+Your device needs a way to download emails and manage your mailbox on the server storing your emails. This is the purpose of the Internet Message Access Protocol or IMAP.
+
 

@@ -53,3 +53,6 @@ HTML is like the building (structure)
 CSS is like the decorations and landscaping
 JS is just like business, the services offered and the people coming in and out
 Javascript is the powerhouse of webpages
+URL: Uniform Resource Locator
+
+

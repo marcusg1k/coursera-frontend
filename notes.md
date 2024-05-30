@@ -67,4 +67,29 @@ when you send data across a network it is sent as a series of messages called IP
 IP packets contain a IP header and a payload which is the IP data
 whehn you send data you are not only sending to the receipients address, but you are showing your own address as well incase a return is needed
 
+introduction to HTTP: Hyper Text Transfer Protocol
+HTTP is a core operational protocol of the world wide web, it is what allows your web browser to communicate with the webserver that hosts a website
+HTTP is a request response based profile:
+HTTP request consists of a method: 
+example: GET /(PATH) HTTP/1.1 (VERSION) + (HEADERS) HOST: developer.google.org  Accept-Language: en
+Primary or most commonly used HTTP methods are: GET, POST, PUT, DELETE
+GET: retrieve information from a given server
+POST: used to send data to the server
+PUT: update whatever currently exists on the webserver
+DELETE: removes the resource
+HTTP RESPONSE: follow a format similar to the request format
+following the header a response will optionally contain a message body consisting of the response content
+example 
+<html> 
+<body> 
+<p> hello world</p>
+</body>
+</html> 
+HTTP RESPONSE CODES: 
+100 - 599
+100 - 199: informational
+200 - 299: successful
+300 - 399: redirection
+400 - 499: client error
+500 - 599: server error
 

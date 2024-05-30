@@ -55,4 +55,16 @@ JS is just like business, the services offered and the people coming in and out
 Javascript is the powerhouse of webpages
 URL: Uniform Resource Locator
 
+IP Addresses: function like addresses in the postal system
+IP address: 
+data transmission: 
+when you send data across the internet, computers are the destination that send and receive data and the networks are the roots that the data travels across
+ip version 4 and ip version 6 are the most used standards of internet protocol
+every computer on a network is assigned an ip address
+IP protocol version 4 example: 192.0.2.235
+IP protocol version 6 example: 4527:0a00:1567:0200:ff00:0042:8329 (uses hexadecimal values)
+when you send data across a network it is sent as a series of messages called IP packets also known as data grounds
+IP packets contain a IP header and a payload which is the IP data
+whehn you send data you are not only sending to the receipients address, but you are showing your own address as well incase a return is needed
+
 

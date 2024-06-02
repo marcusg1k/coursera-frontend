@@ -122,3 +122,8 @@ All data sent over SSH is encrypted. This means that third parties cannot unders
 SSH File Transfer Protocol (SFTP) 
 The data is transmitted insecurely when using the File Transfer Protocol. This means that third parties may understand the data that you are sending. This is not right if you transmit company files such as software and databases. To solve this, the SSH File Transfer Protocol, alternatively called the Secure File Transfer Protocol, can be used to transfer files over the SSH protocol. This ensures that the data is transmitted securely. Most FTP clients also support the SFTP protocol.
 
+REST APIs: 
+A REST API is an application programming interface (API) that conforms to the design principles of the representational state transfer (REST) architectural style.
+
+IDE: An integrated development environment, or IDE, is software for building applications. This kinda of software application has many different features to help you as a developer.
+

@@ -50,3 +50,4 @@ Answer: Domain Name System (DNS)
 
 7. A web application is more _______ compared to a website. 
 Answer: Interactive 
+

@@ -310,5 +310,74 @@ https://youtu.be/XxVg_s8xAms
 web developers
 full stack = front end + back end
 
+Course 1 assessment: Introduction to web development
+
+true/false. In the request/response cycle, the web browser sends the request
+true!!!
+
+In the web browser, what is the role of JavaScript?
+tp provide interactivity and data processing, to describe the visual look and layout, to describe the content of the webpage
+answer: to provide interactivity and data processing
+
+which protocol is used to transfer html documents to the web browser when browsing the world wide web?
+HTTP
+
+Which of the following issues does UDP solve? choose all that apply
+out of order data, corrupted data, lost data
+answer: lost data and out of order data
+
+What will display in the web browser tab for the following HTML document?
+
+answer: little lemon bc its asking about web browser tab and not the webpage tab
+
+
+True or false, unordered lists are defined in HTML using the <ol> tag
+false
+
+in the following css rule, what is the width 50% part of the rule known as?
+div{
+width: 50%;
+}
+property, selector or attribute
+answer: property
+
+a responsive web page adapts its layout to provide the best user experience based on a users device. The point at which it adapts is known as the ____?
+breakpoint 
+
+In the following html, the btn-primary css class is applied to the button element. 
+what is this css class known as in bootstrap?
+infix, modifier, component
+answer: modifier
+
+What is the border-box width of the following css rule?
+div{
+width: 10ox;
+padding-left: 5px;
+padding-right: 5px;
+border-width:5px;
+margin-left: 10px;
+margin-right: 10px;
+}
+answer: 30px
+
+true or false. The libraries which our application depends on can be combined into a single file using code bundling
+true
+
+in the following html, bootstrap grid css class col-xl-6 is applied to the div element.
+What is part of the class known as?
+<div class="col-xl-6">
+</div>
+
+infix, modifier, component
+answer: component
+
+react stores a repsentation of the browser DOM in memory. What is the representation called?
+virtual DOM
+
+react applications are built using reusable pieces of code called?
+components
+
+in the web browser, what is the role of css?
+to describe the visual look and layout
 
 */
